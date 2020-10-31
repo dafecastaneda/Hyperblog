@@ -1,8 +1,11 @@
 body
 {
-    color:rgb(212, 117, 54) #333;
-    text-align: left;
-    font-family: "couriel";
+    color: red;
+    text-align: Center;
+    font-family: "arial";
+    font-size: 16;
+    margin: 0;
+    padding: 0;
 }
 #container
 {
@@ -22,6 +25,7 @@ body
 #cabecera 
 {
     background: rgb(255, 118, 6);
+    box-shadow: opx 2px 20px 0px rbga(0,0,0,.5);
     color: white;
     font-weight: bold;
     margin: 0;
