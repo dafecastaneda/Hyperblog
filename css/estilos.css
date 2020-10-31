@@ -1,0 +1,33 @@
+body
+{
+    color: red;
+    text-align: Center;
+    font-family: "arial";
+    font-size: 16;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 0 ;
+    text-align: left;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px ;
+
+}
+
+#cabecera 
+{
+    background: rgb(255, 118, 6);
+    box-shadow: opx 2px 20px 0px rbga(0,0,0,.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
