@@ -1,17 +1,11 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-    text-align: left;
-    font-family: "couriel";
-=======
     color: red;
     text-align: Center;
     font-family: "arial";
     font-size: 16;
     margin: 0;
     padding: 0;
->>>>>>> cabecera
 }
 #container
 {
